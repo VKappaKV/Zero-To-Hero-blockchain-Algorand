@@ -33,3 +33,25 @@ $${\color {green} Easy  \space \color {orange} Medium \space \color {red} Advanc
 | **3. Empirico: Quali i casi di successo?**  | Casi di utilizzo, Casi di successo                                            |
 | Blockchain and Money – 12                   | IBM introduction to Blockchain - 6                                           |
 | Blockchain Use Cases and Applications – 6   | EBSI Demo Day – 1, 3                                                        |
+
+
+
+<!-- 
+General concepts Table
+
+Blockchain meaning, distributed ledger, why and how, consensus mechanism, SMR protocols, CAP theorem, 
+Asymmetric crypthography, Elliptic curves, RSA, Merkle Trees...
+
+
+
+Bitcoin 
+How it works...
+
+Ethereum
+How it works...
+ -->
+
+ # General Concepts Table
+
+| Content               | Description              | Link         |
+|-----------------------|--------------------------|--------------|
