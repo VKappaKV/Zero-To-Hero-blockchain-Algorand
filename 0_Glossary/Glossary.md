@@ -3,9 +3,9 @@
 ## A
 - **Address**: A unique identifier used to send and receive cryptocurrency. Typically represented as a string of alphanumeric characters (e.g., a Bitcoin address).
 - **Airdrop**: A distribution of a cryptocurrency token or coin, usually for free, to numerous wallet addresses as a promotional strategy or to distribute a new token.
-- **Algorithm**: A set of rules or steps used to perform computations. In crypto, it often refers to the cryptographic algorithm used in securing the blockchain, like SHA-256 for Bitcoin.
-- **Altcoin**: Any cryptocurrency that is not Bitcoin, like Ethereum, Litecoin, or Cardano.
+- **AMM**: Automated Market Maker, algorithm used in Decentralized Exchanges to perform trading through different mathematical formulas instead of bids and orders like in Centralized Order Books.
 - **ASIC (Application-Specific Integrated Circuit)**: A type of hardware specifically designed to perform a single task. In crypto, ASICs are specialized for mining.
+- **AVM**: Algorand Virtual Machine, execution environment for transactions and logic processed on the Algorand Blockchain
 
 ## B
 - **Block**: A unit of data that contains transactions. Blocks are linked together to form a blockchain.
@@ -13,6 +13,7 @@
 - **Block Explorer**: A tool or website used to view and analyze details of blocks, addresses, and transactions on a specific blockchain.
 - **Block Reward**: The incentive that miners receive for successfully solving a cryptographic puzzle and validating a block of transactions.
 - **Bridge**: A technology that connects two separate blockchains, allowing for the transfer of tokens or data between them.
+- **Burn**: permanently removing tokens from circulation 
 
 ## C
 - **Consensus Mechanism**: The algorithm used by a blockchain network to agree on the validity of transactions. Common types include Proof of Work (PoW) and Proof of Stake (PoS).
@@ -24,14 +25,17 @@
 - **dApp (Decentralized Application)**: An application that operates on a blockchain or peer-to-peer network, without a central authority.
 - **Decentralization**: The distribution of authority, information, or infrastructure across a network, rather than being concentrated in one central entity.
 - **DeFi (Decentralized Finance)**: A movement that leverages blockchain technology to recreate and improve traditional financial systems (e.g., lending, borrowing) without intermediaries like banks.
+- **DEX**: Decentralized Exchange, a kind of DeFi protocol for trading.
 - **Double Spend**: A flaw in digital currencies where the same cryptocurrency is spent more than once. Blockchain technology aims to prevent this through consensus mechanisms.
 
 ## E
-- **Encryption**: The process of encoding information so that only authorized parties can read it. It is widely used in securing blockchain transactions.
+- **Encryption**: The process of encoding information so that only authorized parties can read it. 
 - **ERC-20**: A technical standard for smart contracts on the Ethereum blockchain. ERC-20 tokens are fungible and follow specific rules.
 - **ERC-721**: A technical standard for non-fungible tokens (NFTs) on the Ethereum blockchain, used to create unique or distinct digital assets.
+- **EVM**: Ethereum Virtual Machine, execution environment for transactions and logic processed on the Ethereum Blockchain
 
 ## F
+- **FIAT**: traditional government-issued currency
 - **Fork**: A change in the blockchain protocol. A "hard fork" creates a new chain that is not compatible with the old one, while a "soft fork" is backward-compatible.
 - **Full Node**: A participant in the blockchain network that keeps a full copy of the blockchain's history and validates transactions.
 
@@ -42,7 +46,6 @@
 ## H
 - **Hash**: A function that takes an input and generates a fixed-length output (a hash). In blockchain, hashes are used to secure transaction data.
 - **Hash Rate**: The number of hashes (cryptographic computations) a miner can process per second. It is often used to measure the performance and security of a Proof-of-Work blockchain.
-- **HODL**: Initially a typo for "hold," now meaning to hold onto cryptocurrency rather than selling, especially during volatility.
 
 ## I
 - **ICO (Initial Coin Offering)**: A fundraising mechanism where new cryptocurrency projects sell tokens to investors, similar to an IPO in the stock market.
@@ -55,6 +58,7 @@
 - **Liquidity**: The ease with which an asset can be converted into cash or another asset without affecting its price. In DeFi, liquidity pools are often used to ensure sufficient liquidity.
 
 ## M
+- **Mempool**: waiting data structure where transactions are stored before being included in a block for consensus.
 - **Merkle Tree**: A data structure used in blockchain to efficiently and securely verify the integrity of large sets of data by storing them in a hierarchical, hash-based structure.
 - **Mining**: The process of validating blockchain transactions and adding them to the blockchain by solving cryptographic puzzles (typically in Proof of Work systems).
 - **Multi-Signature (Multisig)**: A type of digital signature that requires multiple keys (usually from different parties) to authorize a transaction.
@@ -79,7 +83,6 @@
 - **Rollup**: A Layer 2 scaling solution that processes transactions off-chain but posts the final result back to the main blockchain, reducing on-chain activity and costs.
 
 ## S
-- **Satoshi**: The smallest unit of Bitcoin, equivalent to 0.00000001 BTC. Named after Bitcoin's pseudonymous creator, Satoshi Nakamoto.
 - **Scalability**: The ability of a blockchain network to handle a growing number of transactions efficiently.
 - **Sharding**: A method for increasing the scalability of blockchain networks by splitting the network into smaller parts (shards) that process transactions in parallel.
 - **Smart Contract**: A self-executing contract with the terms written into code, which automatically enforces and executes when predefined conditions are met.
@@ -88,7 +91,7 @@
 
 ## T
 - **Testnet**: A parallel blockchain used for testing new features, applications, or updates without affecting the main blockchain (mainnet).
-- **Token**: A digital asset that represents a certain value or utility within a blockchain network. Tokens can be fungible (like ERC-20 tokens) or non-fungible (like NFTs).
+- **Token**: A digital asset that represents a certain value or utility within a blockchain network. Tokens can be fungible or non-fungible.
 - **TPS (Transactions Per Second)**: A measure of how many transactions a blockchain can process in a given second.
 
 ## V
