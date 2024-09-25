@@ -1,5 +1,10 @@
 ### Introduction to blockchain basics
 
+The following table will report a selection of links where you can find everything you need to understand the basics of blockchains.
+The difficulty of consumption for this content will be reported by the color format of their name following this scheme: 
+
+$${\color {green} Easy  \space \color {orange} Medium \space \color {red} Advanced }$$
+
 # Tabella 1: Corsi finalizzati allo sviluppo
 
 | Argomenti              | Materiale                                                                                       |
