@@ -4,7 +4,7 @@ This repository created for the CODELAB and UNIMI members aims to give the neces
 
 ## How to interact with this repository:
 
-Fork the repository.
-Highlight the content you went over by crossing the lines in the respective tables.
-Create a Markdown file (answers.md) in each directory and answer the questions in **Questions.md**.
-Open a PR request once you have completed each chapter.
+* Fork the repository.
+* Highlight the content you went over by crossing the lines in the respective tables.
+* Create a Markdown file (answers.md) in each directory and answer the questions in **Questions.md**.
+* Open a PR request once you have completed each chapter.
