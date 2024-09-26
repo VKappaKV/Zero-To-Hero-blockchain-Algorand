@@ -1,5 +1,4 @@
-# Zero To Hero Blockchain Developer + { Algorand }
-
+# Zero To Hero Blockchain Developer
 This repository created for the CODELAB and UNIMI members aims to give the necessary resources to learn the basics concepts of blockchains and also get into understanding the newly and advanced topics the industry is developing into, one particular focus is Algorand, it's design and tooling.
 
 - **[Glossary for blockchain and crypto related terms](0_Glossary/Glossary.md)**
