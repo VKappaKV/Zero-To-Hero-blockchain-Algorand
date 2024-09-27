@@ -134,6 +134,7 @@ https://algorand.co/run-a-node
 | [Key differentiators](https://algorandtechnologies.com/technology/smarter-than-smart-contracts)           | theory, smart contracts                   |
 | [Post-Quantum Technology](https://algorand.co/blog/pioneering-falcon-post-quantum-technology-on-blockchain) | theory, cryptography, post-quantum        |
 | [Green by Design](https://algorandtechnologies.com/technology/green-by-design)                            | theory, sustainability                    |
+| [Developer Portal](https://developer.algorand.org/)                                                       | coding, resources, blockchain             |
 | [Article on Instant Finality](https://developer.algorand.org/solutions/avm-evm-instant-finality/)         | theory, consensus, instant finality       |
 | [Formal Verification of Unforkability](https://algorandtechnologies.com/news/runtime-verification)        | theory, verification, blockchain          |
 | [Cryptographic sortition](https://www.youtube.com/watch?v=XfP862hCrDM)                                    | theory, cryptography, sortition           |
@@ -143,20 +144,27 @@ https://algorand.co/run-a-node
 | [Flash Loans on AVM vs EVM](https://developer.algorand.org/solutions/avm-evm-flash-loans/)                | coding, finance, flash loans              |
 | [Vanity Address Generator](https://github.com/kirse/algomania)                                            | coding, utilities, addresses              |
 | [Panda: Security Analysis of Algorand Smart Contracts](https://www.usenix.org/system/files/sec23_slides_sun.pdf) | theory, security, smart contracts         |
+| [Runtime Verification tooling K-AVM](https://runtimeverification.com/blog/runtime-verification-brings-formal-verification-to-algorand)    | coding, security, formal verification   |
 | [Use-Wallet Repo (wallet integration library)](https://github.com/TxnLab/use-wallet)                      | coding, wallet integration                |
+| [ARCs Repository](https://github.com/algorandfoundation/ARCs) , [ARCs discussions](https://github.com/algorandfoundation/ARCs/pulls)                          | coding, ARC    |
 | [Token ARCs](https://github.com/joe-p/algo-edu/blob/master/resources/en-US/token_arcs.pdf)                | theory, token standards, ARCs             |
+| [Techincal FAQ](https://developer.algorand.org/docs/get-details/technical_faq/)                           | coding, FAQs  |
 | [AlgoIoT](https://developer.algorand.org/solutions/algoiot/)                                              | coding, IoT, blockchain                   |
 | [Get Started with AlgoKit and its commands](https://developer.algorand.org/docs/get-details/algokit/)     | coding, tools, blockchain                 |
 | [AlgoKit utils - Python](https://developer.algorand.org/docs/get-details/algokit/utils/py/)               | coding, utilities, Python                 |
 | [AlgoKit utils - Typescript](https://developer.algorand.org/docs/get-details/algokit/utils/ts/)           | coding, utilities, Typescript             |
+| [Official SDKs Section Index (Python, JS, Go, Java)](https://developer.algorand.org/docs/sdks/)           | coding, SDK            |
 | [Puya](https://algorandfoundation.github.io/puya/)                                                        | coding, tools                             |
 | [Tealscript](https://tealscript.netlify.app/)                                                             | coding, smart contracts, TEAL             |
-| [Developer Portal](https://developer.algorand.org/)                                                       | coding, resources, blockchain             |
+| REST APIs: [algod](https://developer.algorand.org/docs/rest-apis/algod/) / [indexer](https://developer.algorand.org/docs/rest-apis/indexer/) / [kmd](https://developer.algorand.org/docs/rest-apis/kmd/)                                                   | coding, API |
 | [Testnet Dispenser](https://dispenser.testnet.aws.algodev.network/)                                       | coding, testnet, tools                    |
 | [Grafana Analytics](https://g.algonode.cloud/d/e754a3ad-bd4f-45b0-860b-af8dae5a0b8a/mainnet-old?orgId=1&refresh=5s) | coding, analytics, monitoring            |
+| [IPFS Pinning with Crust](https://developer.algorand.org/docs/get-details/crust/)                         | coding, IPFS, Crust   |
 | [Pera Onramp JS SDK](https://github.com/perawallet/onramp)                                                | coding, SDK, wallet integration           |
 | [algo-did](https://github.com/joe-p/algo-did)                                                             | coding, decentralized identities          |
+| [Liquid-Auth](https://github.com/algorandfoundation/liquid-auth)                                          | coding, decentralized wallet integration           |
 | [Code Challenges](https://developer.algorand.org/challenges/)                                              | coding, challenges, practice              |
+| [Nullun's CTF with leaderboard](https://nullun.github.io/ctf-algo-leaderboard/)                           | coding, security, CTF, challenges  |
 | [Github Codebase](https://github.com/Ganainmtech)                                                         | coding, blockchain                        |
 | [Algorand Developers official Youtube channel](https://www.youtube.com/@algodevs/featured)                | theory, coding, videos                    |
 | [CODELAB Youtube](https://www.youtube.com/@CODELAB-UNIMI)                                                 | theory, coding, videos                    |
