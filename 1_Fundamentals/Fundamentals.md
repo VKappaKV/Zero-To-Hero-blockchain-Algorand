@@ -25,6 +25,7 @@ Level of difficulty to consume the content $${\color {green} 🟩 Easy  \space \
 | [Introduction to what is a blockchain](https://developer.algorand.org/docs/get-started/basics/what_is_blockchain/) | Blockchain Basics                         | 🟩 |
 | [Asymmetric Cryptography](https://www.youtube.com/watch?v=AQDCe585Lnc)                             | Cryptography, Asymmetric                  | 🟩 |
 | [Asymmetric Cryptography Overview](https://www.youtube.com/watch?v=dCvB-mhkT0w)                             | Cryptography, Asymmetric                  | 🟩 |
+| [Byzantine Generals Problem](https://www.youtube.com/watch?v=dfsRQyYXOsQ)                         | Distributed Systems, Cryptography, SMR | 🟩  |
 | [ECC (Elliptic Curve Cryptography)](https://www.youtube.com/watch?v=vQ1-bQ4Jt5U)                | Cryptography, ECC                         | 🟥 |
 | [ECC Back Door](https://www.youtube.com/watch?v=nybVFJVXbww)                                    | Cryptography, ECC                         | 🟥 |
 | [Sha-256](https://www.youtube.com/watch?v=orIgy2MjqrA)                                          | Cryptography, SHA-256                     | 🟥 |
