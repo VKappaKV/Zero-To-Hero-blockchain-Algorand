@@ -102,6 +102,7 @@
 - **Scalability**: The ability of a blockchain network to handle a growing number of transactions efficiently.
 - **Sharding**: A method for increasing the scalability of blockchain networks by splitting the network into smaller parts (shards) that process transactions in parallel.
 - **Smart Contract**: A self-executing contract with the terms written into code, which automatically enforces and executes when predefined conditions are met.
+- **SNARK**: Succint Non-interactive ARgument of Knowledge (used to create compressed proofs of knowledge)
 - **Stablecoin**: A type of cryptocurrency that is pegged to a stable asset like the US dollar to minimize price volatility.
 - **Staking**: The act of participating in a Proof of Stake network by locking up cryptocurrency to help secure the network and earn rewards.
 
