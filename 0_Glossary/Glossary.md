@@ -11,6 +11,7 @@
 ## B
 
 - **Block**: A unit of data that contains transactions. Blocks are linked together to form a blockchain.
+- **Block Production**: Time required by the block proposer to create the block and gather enough signature to add it to the chain. Don't confuse it with block finality!
 - **Blockchain**: A distributed ledger technology that records transactions in a secure, transparent, and immutable way, using cryptographic techniques.
 - **Block Explorer**: A tool or website used to view and analyze details of blocks, addresses, and transactions on a specific blockchain.
 - **Block Reward**: The incentive that miners receive for successfully solving a cryptographic puzzle and validating a block of transactions.
@@ -42,6 +43,7 @@
 ## F
 
 - **FIAT**: traditional government-issued currency
+- **Finality**: term used to identify a state for a block or transaction when it can't be rolled back and it's permanently part of the blockchain history
 - **Fork**: A change in the blockchain protocol. A "hard fork" creates a new chain that is not compatible with the old one, while a "soft fork" is backward-compatible.
 - **Full Node**: A participant in the blockchain network that keeps a full copy of the blockchain's history and validates transactions.
 
@@ -64,6 +66,7 @@
 
 - **Layer 1**: The base protocol of a blockchain (like Bitcoin or Ethereum), responsible for security, consensus, and transaction processing.
 - **Layer 2**: A secondary framework built on top of a Layer 1 blockchain to increase efficiency and scalability, often through off-chain solutions like payment channels.
+- **Latency**: time delay between two actions. It's usually used for block latency to understand the amount of time between each block production. Not to be confused with block finality.
 - **Ledger**: A record-keeping system for transactions. In blockchain, the ledger is distributed and immutable.
 - **Liquidity**: The ease with which an asset can be converted into cash or another asset without affecting its price. In DeFi, liquidity pools are often used to ensure sufficient liquidity.
 
