@@ -37,7 +37,7 @@ Level of difficulty to consume the content $${\color {green} 🟩 Easy  \space \
 | [Blockchain Architecture](https://www.youtube.com/watch?v=Wba_ZvpaJkk)                                    | Blockchain Architecture                   | 🟧 |
 | [Proof of Work](https://www.youtube.com/watch?v=XLcWy1uV8YM)                                              | Proof of Work, Consensus                  | 🟩 |
 | [Proof of Stake](https://www.youtube.com/watch?v=M3EFi_POhps)                                              | Proof of Stake, Consensus                 | 🟩 |
-| [Advanced: Survey of PoS Blockchain Designs](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)                 | Proof of Stake, Blockchain Design         | 🟥 |
+| [Survey of PoS Blockchain Designs](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)                 | Proof of Stake, Blockchain Design         | 🟥 |
 | [Bitcoin](https://www.youtube.com/watch?v=bBC-nXj3Ng4&pp=ygUVbWVya2xlIHRyZWUgZXhwbGFpbmVk)                | Bitcoin                                   | 🟩 |
 | [Ethereum](https://www.youtube.com/watch?v=jxLkbJozKbY)                                                   | Ethereum, Smart Contracts                 | 🟧 |
 | [EVM (Ethereum Virtual Machine)](https://www.youtube.com/watch?v=sTOcqS4msoU)                             | Ethereum, EVM                             | 🟧 |
