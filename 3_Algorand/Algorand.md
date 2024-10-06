@@ -133,6 +133,7 @@ https://algorand.co/run-a-node
 | [Survey on Blockchain Consensus](https://www.mdpi.com/2227-7390/8/10/1782)                               | theory, research, consensus, PoW, PoS     |
 | [Key differentiators](https://algorandtechnologies.com/technology/smarter-than-smart-contracts)           | theory, smart contracts                   |
 | [Post-Quantum Technology](https://algorand.co/blog/pioneering-falcon-post-quantum-technology-on-blockchain) | theory, cryptography, post-quantum        |
+| [Compact Certificate of Collective Knowledge](https://www.youtube.com/watch?v=gbk74npcs-g)                | theory, cryptography, State Proofs |
 | [Green by Design](https://algorandtechnologies.com/technology/green-by-design)                            | theory, sustainability                    |
 | [Developer Portal](https://developer.algorand.org/)                                                       | coding, resources, blockchain             |
 | [Article on Instant Finality](https://developer.algorand.org/solutions/avm-evm-instant-finality/)         | theory, consensus, instant finality       |
