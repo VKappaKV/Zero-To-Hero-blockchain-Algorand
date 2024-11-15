@@ -19,7 +19,7 @@ This repository created for the CODELAB and UNIMI members aims to give the neces
 
 ## ROADMAP
 
-<iframe src="https://roadmap.sh/r/embed?id=67046a91fb4be684db578ab9" width="100%" height="500px" frameBorder="0"></iframe>
+![roadmap_image](./static/screenshot_roadmap.png)
 
 ## In case of repository update
 
