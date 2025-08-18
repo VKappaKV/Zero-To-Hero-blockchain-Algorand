@@ -17,6 +17,10 @@ This repository created for the CODELAB and UNIMI members aims to give the neces
 - Create a Markdown file (answers.md) in each directory and answer the questions in **Questions.md**.
 - Open a PR request once you have completed each chapter.
 
+## ROADMAP
+
+![roadmap_image](./static/screenshot_roadmap.png)
+
 ## In case of repository update
 
 This Repository is meant to be expanded and updated over time to improve its content, for the students that have forked the repository for their assignements here are the commands to follow to update their fork:
